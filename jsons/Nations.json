@@ -68,9 +68,9 @@
                 "cities": ["Lupinose","Faeryland","Cynthos", "Umbrace", "Willow's Valley"]
         },
         {
-                "name": "Aliens",
-                "leaderName": "Zyxxyz",
-                "adjective": ["alien"],
+                "name": "Draconic Deities",
+                "leaderName": "Flare",
+                "adjective": ["dragon"],
                 "startBias": ["Snow"],
                 "preferredVictoryType": "Scientific",
 
