@@ -21,13 +21,13 @@
                 "hateHello": "What do you want now?",
                 "hateLetsHearIt": ["Speak.","What do you say?","Go on."],
                 "hateNo": ["Piss off.","Stop spouting your bullshit and leave.","If you value your life, get out of my vicinity."],
-                "hateYes": ["That is fine.","That is good enough.","Very well..."],
+                "hateYes": ["Fuck it, sure.","That is good enough.","Very well..."],
 
                 "afterPeace": "Y'all were getting boring anyways.",
                 "tradeRequest": "Let's see if you have anything good to offer us.",
 
-                "outerColor": [16,16,16],
-                "innerColor": [255,200,200],
+                "outerColor": [2,173,5],
+                "innerColor": [1,64,2],
                 "unique": "MANIFEST_DESTINY",
                 "cities": ["Lupinose","Faeryland","Cynthos", "Umbrace", "Willow's Valley"]
         },
@@ -59,8 +59,8 @@
                 "afterPeace": "Very well, all that fighting was getting boring anyway.",
                 "tradeRequest": "We bestow you the honor of this trade offer.",
 
-                "outerColor": [16,16,16],
-                "innerColor": [255,200,200],
+                "outerColor": [0,0,0],
+                "innerColor": [163,2,199],
                 "unique": "MANIFEST_DESTINY",
                 "cities": [""]
         },
