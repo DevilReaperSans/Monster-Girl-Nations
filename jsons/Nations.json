@@ -1,8 +1,8 @@
 [
         {
-                "name": "Canide Tribe",
+                "name": "Lupine Tribe",
                 "leaderName": "Willow",
-                "adjective": ["wolf"],
+                "adjective": ["Wolf-Girl"],
                 "startBias": ["Forest"],
                 "preferredVictoryType": "Scientific",
 
@@ -34,7 +34,7 @@
         {
                 "name": "Draconic Deities",
                 "leaderName": "Flare",
-                "adjective": ["dragon"],
+                "adjective": ["Dragon"],
                 "startBias": ["Snow"],
                 "preferredVictoryType": "Scientific",
 
@@ -67,7 +67,7 @@
         {
                 "name": "Feline Witchery",
                 "leaderName": "Jynx",
-                "adjective": ["cat"],
+                "adjective": ["Cat"],
                 "startBias": ["Snow"],
                 "preferredVictoryType": "Scientific",
 
