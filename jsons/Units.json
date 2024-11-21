@@ -7,15 +7,17 @@
 		"movement": 4,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Requires at least [2] population", "Turns this tile into a [Forest] tile"],
 		"hurryCostModifier": 20
 	},
 {
 "name": "Bone-Thrower",
 "unitType": "Ranged",
+"uniqueTo": "Lupine Tribe"
 "replaces": "Archer",
-"movement": 2,
-"cost": 
+"movement": 3,
+"cost": 40
 "uniques":
+"upgradesTo": 
 } 
 ]
