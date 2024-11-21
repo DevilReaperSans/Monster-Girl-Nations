@@ -28,6 +28,7 @@
 
                 "outerColor": [2,173,5],
                 "innerColor": [1,64,2],
+"uniqueName": "Terrestrial Might",
                 "unique": "MANIFEST_DESTINY",
                 "cities": ["Lupinose","Faeryland","Cynthos", "Umbrace", "Willow's Valley"]
         },
