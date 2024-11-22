@@ -13,11 +13,12 @@
 {
 "name": "Bone-Thrower",
 "unitType": "Ranged",
-"uniqueTo": "Lupine Tribe"
+"uniqueTo": "Lupine Tribe",
 "replaces": "Archer",
 "movement": 3,
-"cost": 40
-"uniques":
-"upgradesTo": 
+"strength": 4,
+"rangedStrength": 8,
+"cost": 40,
+"requiredTech": "Archery"
 } 
 ]
