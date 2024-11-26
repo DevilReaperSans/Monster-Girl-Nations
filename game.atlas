@@ -42,8 +42,8 @@ NationIcons/Draconic Deities
 NationIcons/Feline Witchery
   rotate: false
   xy: 712, 928
-  size: 100, 100
-  orig: 100, 100
+  size: 1000, 1000
+  orig: 1000, 1000
   offset: 0, 0
   index: -1
 UnitIcons/Phasers
